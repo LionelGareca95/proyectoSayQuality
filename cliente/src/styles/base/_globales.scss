@@ -1,0 +1,27 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    overflow: hidden;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+        margin: 0;
+ }
+
